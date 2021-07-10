@@ -1,4 +1,4 @@
-name: CI
+name: faded|Ubuntu
 
 on: workflow_dispatch
 
